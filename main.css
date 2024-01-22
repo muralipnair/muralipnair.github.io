@@ -23,6 +23,8 @@ a:hover {
     max-width: 520px;
     padding: 32px;
     line-height: 1.6em;
+    background-color: black;
+    color: white;
 }
 
 .avatar {
