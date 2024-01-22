@@ -15,6 +15,11 @@ a:hover {
     color: #217ee7;
 }
 
+body {
+    background-color: black;
+  color: white;
+}
+
 #content {
     position: absolute;
     top: 50%;
